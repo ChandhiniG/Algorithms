@@ -10,3 +10,11 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - [Last Digit of a Large Fibonacci Number](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/Lastdigit_fibonaccinumber.py)
 - [Greatest Common Divisor](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/gcd.py)
 - [Least Common Multiple](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/lcm.py)
+
+
+#### Week 3- Greedy Algorithms[(pdf)](https://github.com/ChandhiniG/Algorithms/blob/master/Assignments/week3_greedy_algorithms.pdf)
+- [Money Change]()
+- [Maximum Value of loot (Fractional Knpasack)]()
+- [Car Fueling]()
+- [Maximum Advertisement Revenue (Maximum Dot Product)]()
+- [Maximum Salary (Largest Number)]()
