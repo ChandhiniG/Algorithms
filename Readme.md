@@ -6,7 +6,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - [Maximum Pairwise Product](https://github.com/ChandhiniG/Algorithms/blob/master/WK1-%20Programming%20Challenges/max_pairwise_product.py)
 
 #### Week 2- Algorithmic Warm-up[(pdf)](https://github.com/ChandhiniG/Algorithms/blob/master/Assignments/week2_algorithmic_warmup.pdf)
-- [Fibonacci Number]()
-- [Last Digit of a Large Fibonacci Number]()
-- [Greatest Common Divisor]()
-- [Least Common Multiple]()
+- [Fibonacci Number](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/fibonacci.py)
+- [Last Digit of a Large Fibonacci Number](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/Lastdigit_fibonaccinumber.py)
+- [Greatest Common Divisor](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/gcd.py)
+- [Least Common Multiple](https://github.com/ChandhiniG/Algorithms/blob/master/WK2-%20Algorithmic%20Warm-up/lcm.py)
