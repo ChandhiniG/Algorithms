@@ -13,8 +13,8 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
 
 #### Week 3- Greedy Algorithms[(pdf)](https://github.com/ChandhiniG/Algorithms/blob/master/Assignments/week3_greedy_algorithms.pdf)
-- [Money Change]()
-- [Maximum Value of loot (Fractional Knpasack)]()
-- [Car Fueling]()
-- [Maximum Advertisement Revenue (Maximum Dot Product)]()
-- [Maximum Salary (Largest Number)]()
+- [Money Change](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/money_change.py)
+- [Maximum Value of loot (Fractional Knpasack)](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/fractional_knapsack.py)
+- [Car Fueling](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/car_fueling.py)
+- [Maximum Advertisement Revenue (Maximum Dot Product)](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/maximum_revenue.py)
+- [Maximum Salary (Largest Number)](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/Maximum_Salary.py)
