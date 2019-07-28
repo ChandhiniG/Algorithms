@@ -18,3 +18,10 @@ The course covers basic algorithmic techniques and ideas for computational probl
 - [Car Fueling](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/car_fueling.py)
 - [Maximum Advertisement Revenue (Maximum Dot Product)](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/maximum_revenue.py)
 - [Maximum Salary (Largest Number)](https://github.com/ChandhiniG/Algorithms/blob/master/WK3-%20Greedy%20Algorithms/Maximum_Salary.py)
+
+
+#### Week 4 - Divide and Conquer [(pdf)](https://github.com/ChandhiniG/Algorithms/blob/master/Assignments/week4_divide_and_conquer.pdf)
+- [Binary Search]()
+- [Majority Element]()
+- [Improving Quick Sort]()
+- [Inversions]()
