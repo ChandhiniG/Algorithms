@@ -21,7 +21,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
 
 #### Week 4 - Divide and Conquer [(pdf)](https://github.com/ChandhiniG/Algorithms/blob/master/Assignments/week4_divide_and_conquer.pdf)
-- [Binary Search]()
-- [Majority Element]()
-- [Improving Quick Sort]()
-- [Inversions]()
+- [Binary Search](https://github.com/ChandhiniG/Algorithms/blob/master/WK4-%20Divide%20and%20Conquer/binary_search.py)
+- [Majority Element](https://github.com/ChandhiniG/Algorithms/blob/master/WK4-%20Divide%20and%20Conquer/majority_element.py)
+- [Improving Quick Sort](https://github.com/ChandhiniG/Algorithms/blob/master/WK4-%20Divide%20and%20Conquer/sorting.py)
+- [Inversions](https://github.com/ChandhiniG/Algorithms/blob/master/WK4-%20Divide%20and%20Conquer/inversions.py)
